@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Data and Results (if large)
+data/*
+!data/placeholder.txt
+results/*
+!results/placeholder.txt
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
